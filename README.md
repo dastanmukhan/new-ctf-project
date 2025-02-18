@@ -1,2 +1,2 @@
-# ctf-flask2
-ctf-flask2
+# new-ctf-project
+new-ctf-project
