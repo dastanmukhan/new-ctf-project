@@ -827,7 +827,7 @@ $(function() {
 
 
   <div class="row">
-    <div class="{FWIODEV2025}span4">
+    <div class="{СTFLABS2025}span4">
     </div>
   </div>-->""")
 
@@ -838,7 +838,7 @@ def verify():
 
     # Проверка логина и пароля
     if username == login and user_password == password:
-        return "Correct login! Here is the next challenge: Base64 encoded message: U29tZSBkYXRhIHRvIGRlY29kZQ=="
+        return "Correct login! RkxBR3tBU1RBTkFfQ1lCRVJfTEFCU30="
     else:
         return "Incorrect credentials! Try again."
 
